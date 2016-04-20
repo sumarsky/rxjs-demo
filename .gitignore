@@ -1,4 +1,10 @@
+# Visual Studio Code specific folders
 .vscode
+
+# installed modules
 node_modules
 bower_components
 typings
+
+# npm
+npm-debug.log
