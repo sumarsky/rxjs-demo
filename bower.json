@@ -1,0 +1,21 @@
+{
+    "name": "rxjs-demo",
+    "description": "",
+    "main": "",
+    "authors": [
+        "sumarsky <i.dimcevski@gmail.com>"
+    ],
+    "license": "MIT",
+    "homepage": "",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ],
+    "dependencies": {
+        "rxjs": "^4.1.0",
+        "bootstrap": "^3.3.6"
+    }
+}
