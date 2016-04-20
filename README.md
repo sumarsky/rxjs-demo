@@ -14,11 +14,14 @@ First we install the dependencies:
 npm install
 ```
 
-Bower should be installed automatically immediatelly after `npm install`.
-If not, than install bower dependencies:
-
+`Bower` dependencies and `Typings` should be installed automatically after `npm install`.
+If not, than install them:
 ```bash
+# first bower (for this you need to have bower installed globally)
 bower install
+
+# than (for this you need to have tsd installed globally)
+tsd install
 ```
 
 ## Start
